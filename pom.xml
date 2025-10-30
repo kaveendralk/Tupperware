@@ -16,9 +16,9 @@
 		<serenity.cucumber.version>2.1.2</serenity.cucumber.version>
 		<cucumber.version>4.8.0</cucumber.version>
 		<encoding>UTF-8</encoding>
-		<tags></tags>
+		<tags/>
 		<parallel.tests>4</parallel.tests>
-		<webdriver.base.url></webdriver.base.url>
+		<webdriver.base.url/>
 	</properties>
 
 	<repositories>
@@ -61,7 +61,7 @@
 		<dependency>
 			<groupId>org.apache.pdfbox</groupId>
 			<artifactId>pdfbox</artifactId>
-			<version>1.8.11</version>
+			<version>1.8.17</version>
 		</dependency>
 
 		<!--
